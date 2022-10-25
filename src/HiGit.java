@@ -6,6 +6,8 @@ public class HiGit {
         System.out.println("HiGit");
         System.out.println("HiGit");
         System.out.println("HiGit");
-
+        System.out.println("adasda");
+        System.out.println("adasda");
+        System.out.println("adasda");
     }
 }
