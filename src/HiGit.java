@@ -3,6 +3,9 @@ public class HiGit {
         System.out.println("HiGit");
         System.out.println("HiGit");
         System.out.println("HiGit");
+        System.out.println("HiGit");
+        System.out.println("HiGit");
+        System.out.println("HiGit");
 
     }
 }
